@@ -1,0 +1,22 @@
+{
+  "name": "testgit",
+  "version": "1.0.0",
+  "description": "This is example about testgit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rinpit/TestGit.git"
+  },
+  "author": "PhamThinh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rinpit/TestGit/issues"
+  },
+  "homepage": "https://github.com/rinpit/TestGit#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
